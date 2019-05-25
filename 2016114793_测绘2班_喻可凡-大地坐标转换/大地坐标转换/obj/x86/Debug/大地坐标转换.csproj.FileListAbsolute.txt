@@ -1,0 +1,33 @@
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\bin\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\bin\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.Form1.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.Properties.Resources.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.Form1.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.Properties.Resources.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\bin\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\bin\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.Form1.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.Properties.Resources.resources
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\obj\x86\Debug\大地坐标转换.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\bin\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\大地坐标转换 - 副本 - 副本\大地坐标转换\bin\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\bin\Debug\大地坐标转换.exe
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\bin\Debug\大地坐标转换.pdb
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.Form1.resources
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.Properties.Resources.resources
+C:\Users\lenovo\Desktop\作业\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.csproj.GenerateResource.Cache
+D:\2016114793\大二下\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.exe
+D:\2016114793\大二下\编程实习\2016114793_测绘2班_喻可凡-大地坐标转换\2016114793_测绘2班_喻可凡-大地坐标转换\大地坐标转换\obj\x86\Debug\大地坐标转换.pdb
