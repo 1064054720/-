@@ -27,7 +27,7 @@ namespace 大地坐标转换
             d = d - Degree;
             int M = Convert.ToInt16(Math.Truncate((d) * 60));//分
             int S = Convert.ToInt16(Math.Round((d * 60 - M) * 60));
-            if (S > 59.5
+            if (S > 59.5)
             {
                 M = M + 1;
                 S = 0;
